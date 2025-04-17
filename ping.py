@@ -1,3 +1,4 @@
 import os
 ip = input("Enter IP: ")
-os.system(f"ping {ip}")
+2 ip = input("Enter IP: ")
+3 os.system(f"ping {ip}")\n
